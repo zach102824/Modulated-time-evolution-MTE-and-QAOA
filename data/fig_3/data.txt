@@ -1,22 +1,18 @@
+12 sites infidelity for MTE and QAOA
 #######################################
+# this is for MTE
 
-12 sites data for MTE and QAOA
-
-# this is number of time steps
-x_mod_data = [10,19,28,46]
-
-# this is infidelity
-
+x_mod_data = [10,19,28,46]  # this is number of time steps
 inf_mod_data = 1-np.array([0.9276669570687547,0.9949170383095141,0.9981773567647617,0.9996614296062228])
-
-# this is QAOA
+#########################################
+# this is for QAOA
 
 x_qaoa_data = [30,40,50,60,70,80]
 inf_qaoa_data = 1-np.array([0.8238162155,0.9640804224,0.9850924685,0.9975992135,0.9996371994,0.9998045345])
 
 ########################################
 
-8 sites data for MTE and QAOA
+8 sites infidelity for MTE and QAOA
 
 x_mod_data_8 = [10,19,50,80]   
 inf_mod_data_8 = 1-np.array([0.9907158367081793,0.9996034442544877,0.999968007105579,0.9999999994135846])
