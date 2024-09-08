@@ -9,4 +9,4 @@ This repository contains three main parts of python code in the src folder
 
 For the 12-site optimization, the calculation was performed on Google Cloud Platform (GCP) with GPU support, using either the PyTorch or JAX package.The optimization was executed on a single Nvidia V100 (16GB) GPU, with the runtime typically completed within a day.
 
-To achieve optimal speed, it is recommended to run the code on Google Colab. 
+To achieve optimal speed, it is recommended to run the code on a cloud service such as Google Colab or a similar platform.
