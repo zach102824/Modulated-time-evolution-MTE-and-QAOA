@@ -1,4 +1,4 @@
-\section*{Modulated Time Evolution (MTE) and Quantum Approximate Optimization Algorithm (QAOA)}
+#Modulated Time Evolution (MTE) and Quantum Approximate Optimization Algorithm (QAOA)
 
 This repository contains the code and data used for the publication "\href{https://doi.org/10.48550/arXiv.2408.03251}{Modulated Time Evolution for Efficient Variational Ground-State Preparation}."
 
