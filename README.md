@@ -10,7 +10,7 @@ This repository contains three main parts of Python code in the src folder:
 
 For the 12-site optimization, the calculation was performed on Google Cloud Platform (GCP) with GPU support, using either the PyTorch or JAX package. The optimization was executed on a single Nvidia V100 (16GB) GPU, with the runtime typically completed within a day.
 
-To maximize speed, it's recommended to run the code on a cloud service like Google Colab or a similar platform, ensuring the use of the latest CUDA-compatible Python packages.
+Note that the jaxlib version must correspond to the existing CUDA installation you wish to use. Please refer to the JAX documentation for more details. To maximize speed, it's recommended to run the code on a cloud service like Google Colab or a similar platform, ensuring the use of the latest CUDA-compatible Python packages.
 
 Citation: [![DOI](https://zenodo.org/badge/851833242.svg)](https://zenodo.org/doi/10.5281/zenodo.13763653)
 
