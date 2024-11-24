@@ -1,5 +1,6 @@
-This folder contains some of the data needed for Fig.~1, as well as the generation of Fig.~2.
+This folder contains partial data for Fig.~1 and the scripts for generating Fig.~2.
 
-Note: The gs file at all different $B$ values used to calculate $B_d(t)$ is too large to be uploaded here. It is available via the following Google Drive link:
-
+Note, the gs file, which includes data for all different $$B$$ values used to calculate $$B_d(t)$$, exceeds the upload limit. It can be accessed via the following 
 https://drive.google.com/drive/folders/1w3PmXrVv_M9KFef1Ei5Dqtxz8eGFHTu9?usp=drive_link
+
+The b list used in Fig.~2 is generated using the ``time-evolution'' file provided in the supplementary materials.
